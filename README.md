@@ -1,5 +1,9 @@
 # training360-szoftverarchitekturak
 
+### computer and person ids
+
+![ids](/Computer%20and%20person%20id.JPG)
+
 ### standalone cli
 
 ![cli1](/1%20standalone-cli/cli_screenshot1.jpg)
