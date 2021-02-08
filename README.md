@@ -35,9 +35,16 @@
 ![gui3](/5%20nosql/nosql_screenshot3.jpg)
 ![gui4](/5%20nosql/nosql_screenshot4.jpg)
 
-### web
+### web applications
 
 ![gui1](/6%20web/web_screenshot1.jpg)
 ![gui2](/6%20web/web_screenshot2.jpg)
 ![gui3](/6%20web/web_screenshot3.jpg)
 ![gui4](/6%20web/web_screenshot4.jpg)
+
+### html and css architectures
+
+![gui1](/7%20html-css/html_screenshot1.jpg)
+![gui2](/7%20html-css/html_screenshot2.jpg)
+![gui3](/7%20html-css/html_screenshot3.jpg)
+![gui4](/7%20html-css/html_screenshot4.jpg)
