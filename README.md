@@ -9,8 +9,10 @@
 
 ### standalone gui
 
-[gui1](/2%20standalone-gui/gui_screenshot1.jpg)
-[gui2](/2%20standalone-gui/gui_screenshot2.jpg)
-[gui3](/2%20standalone-gui/gui_screenshot3.jpg)
-[gui4](/2%20standalone-gui/gui_screenshot4.jpg)
-https://github.com/Ubioneken/training360-szoftverarchitekturak/blob/main/2%20standalone-gui/gui_screenshot1.jpg
+![gui1](/2%20standalone-gui/gui_screenshot1.jpg)
+![gui2](/2%20standalone-gui/gui_screenshot2.jpg)
+![gui3](/2%20standalone-gui/gui_screenshot3.jpg)
+![gui4](/2%20standalone-gui/gui_screenshot4.jpg)
+
+### central dB
+
