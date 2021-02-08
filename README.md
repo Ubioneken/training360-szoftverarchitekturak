@@ -27,3 +27,17 @@
 ![gui2](/4%20sql/sql_screenshot2.jpg)
 ![gui3](/4%20sql/sql_screenshot3.jpg)
 ![gui4](/4%20sql/sql_screenshot4.jpg)
+
+### nosql
+
+![gui1](/5%20nosql/nosql_screenshot1.jpg)
+![gui2](/5%20nosql/nosql_screenshot2.jpg)
+![gui3](/5%20nosql/nosql_screenshot3.jpg)
+![gui4](/5%20nosql/nosql_screenshot4.jpg)
+
+### web
+
+![gui1](/6%20web/web_screenshot1.jpg)
+![gui2](/6%20web/web_screenshot2.jpg)
+![gui3](/6%20web/web_screenshot3.jpg)
+![gui4](/6%20web/web_screenshot4.jpg)
