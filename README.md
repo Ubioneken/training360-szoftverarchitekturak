@@ -1,2 +1,3 @@
 # training360-szoftverarchitekturak
-training360-szoftverarchitekturak learning
+standalone cli practices
+![cli1](standalone-cli/cli_screenshot1.jpg)
