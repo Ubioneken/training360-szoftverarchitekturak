@@ -16,3 +16,7 @@
 
 ### central dB
 
+![gui1](/3%20central-dB/centraldB_screenshot1.jpg)
+![gui2](/3%20standalone-gui/gui_screenshot2.jpg)
+![gui3](/3%20standalone-gui/gui_screenshot3.jpg)
+![gui4](/3%20standalone-gui/gui_screenshot4.jpg)
