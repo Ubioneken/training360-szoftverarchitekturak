@@ -6,9 +6,8 @@
 
 # Practices
 
-### standalone cli
-### ______________________________________________________________________________________
-
+### ***standalone cli***
+###
 ![cli1](/1%20standalone-cli/cli_screenshot1.jpg)
 ![cli2](/1%20standalone-cli/cli_screenshot2.jpg)
 ![cli3](/1%20standalone-cli/cli_screenshot3.jpg)
