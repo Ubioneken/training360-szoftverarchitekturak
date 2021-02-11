@@ -4,7 +4,10 @@
 
 ![ids](/Computer%20and%20person%20id.JPG)
 
+# Practices
+
 ### standalone cli
+### ______________________________________________________________________________________
 
 ![cli1](/1%20standalone-cli/cli_screenshot1.jpg)
 ![cli2](/1%20standalone-cli/cli_screenshot2.jpg)
